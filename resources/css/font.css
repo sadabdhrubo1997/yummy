@@ -1,0 +1,16 @@
+@font-face {
+    font-family: ttc-dbold;
+    src: url(../font/TTCommons-DemiBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: ttc-bold;
+    src: url(../font/TTCommons-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: ttc-medium;
+    src: url(../font/TTCommons-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: ttc-regular;
+    src: url(../font/TTCommons-Regular.ttf) format("truetype");
+}
